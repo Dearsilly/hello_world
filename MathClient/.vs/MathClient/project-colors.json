@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8825ddf5-6591-4611-870d-6b7657965c1b": {
+      "ProjectGuid": "8825ddf5-6591-4611-870d-6b7657965c1b",
+      "DisplayName": "MathClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
